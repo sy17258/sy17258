@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as **Frontend Developer Intern at Truly Virtually**
+- 🔭 I recently completed my **Frontend Developer Internship at Truly Virtually**
 - 🌱 I'm currently learning **React.js, TypeScript, and modern JavaScript frameworks**
 - 👯 I'm looking to collaborate on **open source projects and web development**
 - 💬 Ask me about **React, TypeScript, Next.js, Machine Learning, and AI/ML**
 - 📫 How to reach me: **shivamydv.work@gmail.com**
-- 🎓 **MCA Student at GLA University** (2023-2025)
+- 🎓 **MCA Student at GLA University** (2023-2025) | **B.Sc. Computer Science Graduate**
 - ⚡ Fun fact: **I built a gesture-controlled media player using AI!**
 
 ## 🛠️ Technologies & Tools
@@ -69,31 +69,50 @@
 
 ### 🏨 [Hotel Management System](https://kutkuthotel.me/)
 **Tech Stack:** React, TypeScript, Node.js, Supabase, Razorpay
-- 🔧 Engineered full-stack booking system handling 100+ concurrent users
-- 💳 Integrated Razorpay for seamless transaction processing
-- 🔐 Implemented secure authentication system
+- 🔧 Engineered full-stack booking system handling 100+ concurrent users with 8+ core features
+- 💳 Integrated Razorpay for seamless 3-second transaction processing
+- 🎯 Designed 15+ modular components with real-time synchronization
+- 🔐 Implemented secure authentication system supporting 500+ user registrations
 
 ### 🖼️ [Image Enhancer](https://image-enhanced.vercel.app/)
 **Tech Stack:** React, Vite, TypeScript, Docker
 - 🎨 Developed web-based tool for real-time image enhancement
-- 🎛️ Applied filters via HTML5 Canvas API
-- 🐳 Optimized with Tailwind CSS and Docker deployment
+- 🎛️ Applied filters (contrast, brightness, sharpness) via HTML5 Canvas API
+- 🐳 Optimized UI with Tailwind CSS and packaged using Docker for deployment
 
 ### 🎮 [Gesture-Controlled Media Player](https://gesturecontroll.netlify.app/)
 **Tech Stack:** React, MediaPipe, TensorFlow.js
 - 👋 Built touch-free media player using hand gesture recognition
-- ♿ Achieved 40% improvement in accessibility usability
-- 📹 Real-time webcam processing with AI/ML
+- ♿ Achieved 40% improvement in usability for accessibility use cases
+- 📹 Processed webcam input in real-time using TensorFlow.js and MediaPipe
+
+### 📚 **Book Management System** 
+**Tech Stack:** Next.js, React, TypeScript
+- 📖 A comprehensive book management application built with Next.js
+- 📊 Features book cataloging, search functionality, and user management
+- 🎨 Modern UI with responsive design
 
 ## 💼 Work Experience
 
-**Frontend Developer Intern** @ **Truly Virtually** _(Jan 2025 - June 2025)_
-- 💻 Developing responsive web applications using React.js and TypeScript
-- 🚀 Creating reusable UI components, increasing development efficiency by 40%
+**Frontend Developer Intern** @ **Truly Virtually** _(Jan 2025 - June 2025)_ ✅ **Completed**
+- 💻 Developed responsive web applications using React.js, TypeScript, and modern JavaScript frameworks
+- 🚀 Created reusable UI components, increasing development efficiency by 40%
+- 🔧 Implemented state management solutions and API integrations for enhanced user experiences
+- ⚙️ Utilized modern development tools including Vite, Git version control, and component libraries
 
-**Machine Learning & Data Analysis Intern** @ **YBI Foundation** _(June 2024 - Aug 2024)_
+**Machine Learning & Data Analysis Intern** @ **YBI Foundation** _(June 2024 - Aug 2024)_ ✅ **Completed**
 - 🤖 Trained ML models with Python and TensorFlow, increasing accuracy by 15%
+- 📊 Preprocessed 500K+ records, reducing training time by 20%
 - ☁️ Deployed models on AWS, optimizing response time by 25%
+- 📈 Analyzed 1M+ entries to improve processing capacity by 40%
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+_GLA University_ | 2023 - 2025 | **Currently Pursuing**
+
+**Bachelor of Science in Computer Science (B.Sc. CS)**  
+_St. John's College_ | 2019 - 2022 | **Completed**
 
 ## 📫 Connect with Me
 
