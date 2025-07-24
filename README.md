@@ -1,36 +1,20 @@
-## Hi there 👋
-
-<!--
-**sy17258/sy17258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Shivam Yadav
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Building+amazing+projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+amazing+projects)
 
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: **I love coding and solving problems!**
+- 🔭 I'm currently working as **Frontend Developer Intern at Truly Virtually**
+- 🌱 I'm currently learning **React.js, TypeScript, and modern JavaScript frameworks**
+- 👯 I'm looking to collaborate on **open source projects and web development**
+- 💬 Ask me about **React, TypeScript, Next.js, Machine Learning, and AI/ML**
+- 📫 How to reach me: **shivamydv.work@gmail.com**
+- 🎓 **MCA Student at GLA University** (2023-2025)
+- ⚡ Fun fact: **I built a gesture-controlled media player using AI!**
 
 ## 🛠️ Technologies & Tools
 
@@ -44,6 +28,10 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -77,20 +65,44 @@ Here are some ideas to get you started:
 
 </div>
 
-## 🎯 Current Projects
+## 🎯 Featured Projects
 
-- 📚 **Book Management System** - A comprehensive book management application built with Next.js
-- 🌟 **Portfolio Website** - My personal portfolio showcasing all my projects
-- 🔧 **Open Source Contributions** - Contributing to various open source projects
+### 🏨 [Hotel Management System](https://kutkuthotel.me/)
+**Tech Stack:** React, TypeScript, Node.js, Supabase, Razorpay
+- 🔧 Engineered full-stack booking system handling 100+ concurrent users
+- 💳 Integrated Razorpay for seamless transaction processing
+- 🔐 Implemented secure authentication system
+
+### 🖼️ [Image Enhancer](https://image-enhanced.vercel.app/)
+**Tech Stack:** React, Vite, TypeScript, Docker
+- 🎨 Developed web-based tool for real-time image enhancement
+- 🎛️ Applied filters via HTML5 Canvas API
+- 🐳 Optimized with Tailwind CSS and Docker deployment
+
+### 🎮 [Gesture-Controlled Media Player](https://gesturecontroll.netlify.app/)
+**Tech Stack:** React, MediaPipe, TensorFlow.js
+- 👋 Built touch-free media player using hand gesture recognition
+- ♿ Achieved 40% improvement in accessibility usability
+- 📹 Real-time webcam processing with AI/ML
+
+## 💼 Work Experience
+
+**Frontend Developer Intern** @ **Truly Virtually** _(Jan 2025 - June 2025)_
+- 💻 Developing responsive web applications using React.js and TypeScript
+- 🚀 Creating reusable UI components, increasing development efficiency by 40%
+
+**Machine Learning & Data Analysis Intern** @ **YBI Foundation** _(June 2024 - Aug 2024)_
+- 🤖 Trained ML models with Python and TensorFlow, increasing accuracy by 15%
+- ☁️ Deployed models on AWS, optimizing response time by 25%
 
 ## 📫 Connect with Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sy17258)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamyadav-sy)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tecportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamydv.work@gmail.com)
 
 </div>
 
@@ -111,4 +123,3 @@ Here are some ideas to get you started:
 **Thanks for visiting my profile! Have a great day! 😊**
 
 </div>
-
