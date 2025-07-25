@@ -37,34 +37,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sy17258&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sy17258&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sy17258&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=sy17258&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sy17258&theme=react-dark&hide_border=true)
-
-</div>
-
 ## 🎯 Featured Projects
 
 ### 🏨 [Hotel Management System](https://kutkuthotel.me/)
@@ -109,7 +81,7 @@
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
-_GLA University_ | 2023 - 2025 | **Currently Pursuing**
+_GLA University_ | 2023 - 2025 | **Completed**
 
 **Bachelor of Science in Computer Science (B.Sc. CS)**  
 _St. John's College_ | 2019 - 2022 | **Completed**
